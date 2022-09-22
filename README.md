@@ -1,4 +1,4 @@
-# Sistema de ventas con manejo de licencias y actualizaciones remotas
+# Sistema de ventas con manejo de licencias y actualizaciones remotas C# and MSSQL
 ![Login](https://user-images.githubusercontent.com/113195223/191454690-f65086f3-9cf0-4b6a-b40f-e3700acc455d.gif)
 
 # Intefaz
