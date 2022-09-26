@@ -1,9 +1,13 @@
 # Sistema de ventas con manejo de licencias y actualizaciones remotas C# and MSSQL
 
-Manejo de inventario, conduces, entradas \
-Facturación, reportes de facturas, listado de facturas de cualquier fecha \
-Cuentas por Pagar con reportes en formato pdf \
-Cuentas por Cobrar con reportes en formato pdf
+Login con conectividad local, remota o hibrida (con implementacion de Rest Api). \
+Manejo de actualizaciones de forma remota. \
+Control de licencias en base a cifrado SHA256. \
+Manejo de inventario, conduces, entradas. \
+Facturación, reportes de facturas, listado de facturas de cualquier fecha. \
+Cuentas por Pagar con reportes en formato pdf. \
+Cuentas por Cobrar con reportes en formato pdf. \
+Reportes para DGII formatos gobernamentales, 606, 607.
 
 ![Login](https://user-images.githubusercontent.com/113195223/191454690-f65086f3-9cf0-4b6a-b40f-e3700acc455d.gif)
 
