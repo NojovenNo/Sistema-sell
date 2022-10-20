@@ -7,7 +7,7 @@ Inventory management, drives, inputs.\
 Billing, invoice reports, list of invoices of any date.\
 Accounts Payable with reports in pdf format.\
 Accounts Receivable with reports in pdf format.\
-Reports for DGII government formats, 606, 607. \
+Reports for DGII government formats, 606, 607.
 
 # Login
 
